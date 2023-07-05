@@ -5,7 +5,7 @@ I am regular conference speaker, trainer, and C++ contractor.
 I am available for code reviews and [on-site training](https://articles.emptycrate.com/training.html). 
 
 * Host of the YouTube channel [C++ Weekly](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw)
-* Host of the YouTube channel [The <fill in the blank> Programmer](https://www.youtube.com/channel/UCADySP7Hy8TxgfDEe2GZQyw)
+* Host of the YouTube channel [The &lt;fill in the blank> Programmer](https://www.youtube.com/channel/UCADySP7Hy8TxgfDEe2GZQyw)
 * Ex-co-host of [CppCast](https://cppcast.com/)
   
 
