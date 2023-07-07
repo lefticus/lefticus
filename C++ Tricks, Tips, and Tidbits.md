@@ -25,3 +25,4 @@ Here is a list of "did you know..." or "tip of the day" statements about C++. Th
 * `enum struct` and `enum class` are equivalent
 * Unions can have constructors and member methods
 * You can use unary `operator+` to cast a stateless lambda to a function pointer
+* C++ got its OOP features from `Simula67` Programming language. 
