@@ -6,7 +6,7 @@ I am available for code reviews and [on-site training](https://articles.emptycra
 
 * Host of the YouTube channel [C++ Weekly](https://www.youtube.com/@cppweekly)
 * Host of [CppCast](https://cppcast.com/)
-* C++ T-Shirts [available!](https://my-store-d16a2f.creator-spring.com/)
+* C++ T-Shirts [available!](https://jason-turner-shop.fourthwall.com/)
   
 
 
